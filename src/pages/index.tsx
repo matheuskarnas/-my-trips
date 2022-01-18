@@ -7,7 +7,7 @@ type Props = {
 }
 
 export default function Home({ title = 'React avançado' }: Props) {
-  const test = 25
+  const problema = 'tristeza'
 
   return (
     <div className={styles.container}>
