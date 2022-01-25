@@ -1,6 +1,6 @@
 import * as S from './styles'
 
-const bloo = 'trtr'
+const treaa = 'trtr'
 
 const Main = () => (
   <S.warpper>
