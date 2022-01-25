@@ -1,5 +1,7 @@
 import * as S from './styles'
 
+const bloo = 'uhsahuasuh'
+
 const Main = () => (
   <S.warpper>
     <S.Logo
