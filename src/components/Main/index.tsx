@@ -1,7 +1,5 @@
 import * as S from './styles'
 
-const treaa = 23
-
 const Main = () => (
   <S.warpper>
     <S.Logo
